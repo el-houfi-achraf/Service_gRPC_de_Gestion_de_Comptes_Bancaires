@@ -1,4 +1,4 @@
-# TP18 - Service gRPC de Gestion de Comptes Bancaires
+# Service gRPC de Gestion de Comptes Bancaires
 
 ## 📋 Description
 
